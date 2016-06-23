@@ -1,0 +1,5 @@
+CHANGED,C:\Users\Roy\Documents\GitHub\Project-Knackebrod\TestApp\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\onno\testapp\R$string$override.class
+CHANGED,C:\Users\Roy\Documents\GitHub\Project-Knackebrod\TestApp\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\android\tools\fd\runtime\AppPatchesLoaderImpl.class
+CHANGED,C:\Users\Roy\Documents\GitHub\Project-Knackebrod\TestApp\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\onno\testapp\R$styleable$override.class
+CHANGED,C:\Users\Roy\Documents\GitHub\Project-Knackebrod\TestApp\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\onno\testapp\R$mipmap$override.class
+CHANGED,C:\Users\Roy\Documents\GitHub\Project-Knackebrod\TestApp\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\onno\testapp\R$style$override.class
