@@ -12,4 +12,8 @@
     tools:context="com.example.onno.testapp.Main7Activity"
     tools:showIn="@layout/activity_main7">
 
+    <com.jjoe64.graphview.GraphView
+        android:layout_width="match_parent"
+        android:layout_height="300dip"
+        android:id="@+id/graph"/>
 </RelativeLayout>

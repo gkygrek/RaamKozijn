@@ -26,7 +26,7 @@
         jar="C:\Users\Max\Documents\GitHub\RaamKozijn\TestApp\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
         jumboMode="true"
         revision="24.0.0"
-        sha1="a576641255a9e09e0b3483cb039975658ef2e7d7">
+        sha1="a630a3dfa203520c37587a810d42c93f551447e6">
         <dex dex="C:\Users\Max\Documents\GitHub\RaamKozijn\TestApp\app\build\intermediates\pre-dexed\debug\instant-run_02c99eb4409e78edc6b2e91d45594d41cea4a4c0.jar" />
     </item>
     <item
@@ -65,18 +65,18 @@
         <dex dex="C:\Users\Max\Documents\GitHub\RaamKozijn\TestApp\app\build\intermediates\pre-dexed\debug\com.android.support-design-23.4.0_d9752fd5052f54bb174229ead497bac94f198215.jar" />
     </item>
     <item
-        jar="C:\Users\Max\Documents\GitHub\RaamKozijn\TestApp\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
-        jumboMode="true"
-        revision="24.0.0"
-        sha1="2a6e3dde63347e2da0256d0cbc700ec8e37dece5">
-        <dex dex="C:\Users\Max\Documents\GitHub\RaamKozijn\TestApp\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_b47fb2410e88665d9aaa0efd28e1c244951f5f70.jar" />
-    </item>
-    <item
         jar="C:\Users\Max\Documents\GitHub\RaamKozijn\TestApp\app\lib\GraphView-4.0.1.jar"
         jumboMode="true"
         revision="24.0.0"
         sha1="8bd182a66f13dedad362bfbf992be96de2be5969">
         <dex dex="C:\Users\Max\Documents\GitHub\RaamKozijn\TestApp\app\build\intermediates\pre-dexed\debug\GraphView-4.0.1_d98ee5e3f913a62bb10e3080d2cfeda99645e367.jar" />
+    </item>
+    <item
+        jar="C:\Users\Max\Documents\GitHub\RaamKozijn\TestApp\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="0e42c1c9ff1c2208e82ed8b69cd3a5cf8d7d4785">
+        <dex dex="C:\Users\Max\Documents\GitHub\RaamKozijn\TestApp\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_b47fb2410e88665d9aaa0efd28e1c244951f5f70.jar" />
     </item>
 
 </items>
