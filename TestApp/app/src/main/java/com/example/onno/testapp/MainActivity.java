@@ -12,8 +12,6 @@ import android.view.Menu;
 import android.view.MenuItem;
 import android.widget.Button;
 
-
-
 public class MainActivity extends AppCompatActivity {
     Context context;
     @Override
@@ -49,15 +47,6 @@ public class MainActivity extends AppCompatActivity {
                 Intent intent = new Intent(context,Main4Activity.class);
                 intent.addFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
                 context.startActivity(intent);
-            }
-        });
-
-        FloatingActionButton fab = (FloatingActionButton) findViewById(R.id.fab);
-        fab.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View view) {
-                Snackbar.make(view, "Replace with your own action", Snackbar.LENGTH_LONG)
-                        .setAction("Action", null).show();
             }
         });
     }
