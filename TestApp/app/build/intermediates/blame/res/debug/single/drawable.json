@@ -16,12 +16,12 @@
         "source": "C:\\Users\\onno\\Documents\\GitHub\\RaamKozijn\\TestApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_ratingbar_indicator_material.xml"
     },
     {
-        "merged": "C:\\Users\\onno\\Documents\\GitHub\\RaamKozijn\\TestApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
-        "source": "C:\\Users\\onno\\Documents\\GitHub\\RaamKozijn\\TestApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_edit_text_material.xml"
-    },
-    {
         "merged": "C:\\Users\\onno\\Documents\\GitHub\\RaamKozijn\\TestApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\backgroundapp.jpg",
         "source": "C:\\Users\\onno\\Documents\\GitHub\\RaamKozijn\\TestApp\\app\\src\\main\\res\\drawable\\backgroundapp.jpg"
+    },
+    {
+        "merged": "C:\\Users\\onno\\Documents\\GitHub\\RaamKozijn\\TestApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\onno\\Documents\\GitHub\\RaamKozijn\\TestApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_edit_text_material.xml"
     },
     {
         "merged": "C:\\Users\\onno\\Documents\\GitHub\\RaamKozijn\\TestApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_full_material.xml",
