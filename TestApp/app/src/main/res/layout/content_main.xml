@@ -20,30 +20,27 @@
         android:layout_height="wrap_content"
         android:text="Charts"
         android:id="@+id/button1"
-        android:minWidth="180dp"
+        android:minWidth="160dp"
         android:layout_above="@+id/button2"
-        android:layout_centerHorizontal="true"
-        android:minHeight="45dp" />
+        android:layout_alignStart="@+id/button2" />
 
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Location"
         android:id="@+id/button2"
-        android:minWidth="180dp"
-        android:minHeight="45dp"
+        android:minWidth="160dp"
         android:layout_above="@+id/button3"
-        android:layout_alignStart="@+id/button1" />
+        android:layout_alignStart="@+id/button3" />
 
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="HeatMap"
         android:id="@+id/button3"
-        android:minWidth="180dp"
+        android:minWidth="160dp"
         android:layout_above="@+id/textView"
-        android:layout_alignStart="@+id/button2"
-        android:minHeight="45dp" />
+        android:layout_centerHorizontal="true" />
 
     <TextView
         android:layout_width="wrap_content"
@@ -51,8 +48,8 @@
         android:textAppearance="?android:attr/textAppearanceSmall"
         android:text="Made by Dionysos"
         android:id="@+id/textView"
-        android:textColor="#ffffff"
         android:layout_alignParentBottom="true"
-        android:layout_alignParentStart="true" />
+        android:layout_alignParentStart="true"
+        android:textColor="#ffffff" />
 
 </RelativeLayout>

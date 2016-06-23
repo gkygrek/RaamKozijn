@@ -36,23 +36,6 @@
             android:name="com.example.onno.testapp.Main2Activity"
             android:label="@string/title_activity_main2"
             android:theme="@style/AppTheme.NoActionBar" />
-        <activity
-            android:name="com.example.onno.testapp.Main5Activity"
-            android:label="@string/title_activity_main5"
-            android:theme="@style/AppTheme.NoActionBar" />
-        <activity
-            android:name="com.example.onno.testapp.Main6Activity"
-            android:label="@string/title_activity_main6"
-            android:theme="@style/AppTheme.NoActionBar" />
-        <activity
-            android:name="com.example.onno.testapp.Main7Activity"
-            android:label="@string/title_activity_main7"
-            android:theme="@style/AppTheme.NoActionBar" />
-        <activity
-            android:name="com.example.onno.testapp.Main8Activity"
-            android:label="@string/title_activity_main8"
-            android:theme="@style/AppTheme.NoActionBar" >
-        </activity>
     </application>
 
 </manifest>
