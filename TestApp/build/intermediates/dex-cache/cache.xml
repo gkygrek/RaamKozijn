@@ -2,11 +2,74 @@
 <items version="2" >
 
     <item
+        jar="C:\Users\onno\Documents\GitHub\RaamKozijn\TestApp\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="b3c05061a1b7d4d2f276245be794ba01cca6fc42">
+        <dex dex="C:\Users\onno\Documents\GitHub\RaamKozijn\TestApp\app\build\intermediates\pre-dexed\debug\instant-run_647e169027c8c018472cac1147a264dd9c9d38a9.jar" />
+    </item>
+    <item
+        jar="C:\Users\onno\Documents\GitHub\RaamKozijn\TestApp\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="C:\Users\onno\Documents\GitHub\RaamKozijn\TestApp\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.4.0_c4fde070b9f1ca0628f2e1310673148cbf7703c3.jar" />
+    </item>
+    <item
+        jar="C:\Users\onno\Documents\GitHub\RaamKozijn\TestApp\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="C:\Users\onno\Documents\GitHub\RaamKozijn\TestApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.4.0_f9c1f075aacc110839bef377ce33c9b952b2f922.jar" />
+    </item>
+    <item
+        jar="C:\Users\onno\Documents\GitHub\RaamKozijn\TestApp\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="C:\Users\onno\Documents\GitHub\RaamKozijn\TestApp\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.4.0_3c85f33a800109aa145549d00b7829cd1bd8bf60.jar" />
+    </item>
+    <item
+        jar="C:\Users\onno\Documents\GitHub\RaamKozijn\TestApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="C:\Users\onno\Documents\GitHub\RaamKozijn\TestApp\app\build\intermediates\pre-dexed\debug\internal_impl-23.4.0_ea7cc513eaed77d1f8a9b194e41270cf25f5da77.jar" />
+    </item>
+    <item
+        jar="C:\Users\onno\Documents\GitHub\RaamKozijn\TestApp\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="C:\Users\onno\Documents\GitHub\RaamKozijn\TestApp\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-23.4.0_4cc2dbe4cd988bada0e0de8799cc8d175e75a73c.jar" />
+    </item>
+    <item
         jar="C:\Users\onno\Documents\GitHub\RaamKozijn\TestApp\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
         jumboMode="true"
         revision="24.0.0"
-        sha1="787e07318e556c19beb85be6df31c55328bd4ca3">
+        sha1="7abf9da8e0d651a48adbdd501af66780f3848e8f">
         <dex dex="C:\Users\onno\Documents\GitHub\RaamKozijn\TestApp\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_7bbcc33f1f7dfc23652572124105953f139219dd.jar" />
+    </item>
+    <item
+        jar="C:\Users\onno\Documents\GitHub\RaamKozijn\TestApp\app\build\intermediates\exploded-aar\com.android.support\design\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="C:\Users\onno\Documents\GitHub\RaamKozijn\TestApp\app\build\intermediates\pre-dexed\debug\com.android.support-design-23.4.0_54083c06c302739f02457e4beac2b046ae83dfc7.jar" />
+    </item>
+    <item
+        jar="C:\Users\onno\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="C:\Users\onno\Documents\GitHub\RaamKozijn\TestApp\app\build\intermediates\pre-dexed\debug\support-annotations-23.4.0_d1bed7c65da2605416e93b119267f0985b7d278c.jar" />
+    </item>
+    <item
+        jar="C:\Users\onno\Documents\GitHub\RaamKozijn\TestApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="C:\Users\onno\Documents\GitHub\RaamKozijn\TestApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.4.0_3f94a1e2c3b3dddf1019783b3eb938abe964b568.jar" />
     </item>
 
 </items>
