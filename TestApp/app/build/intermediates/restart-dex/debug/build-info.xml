@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <instant-run
-    abi="arm64-v8a,armeabi-v7a,armeabi"
-    api-level="23"
+    abi="x86"
+    api-level="19"
     density="xxhdpi"
     format="7"
-    timestamp="261853690711239"
-    token="-9088975372373238563" >
+    timestamp="82194033896398"
+    token="2511838575781487073" >
 
     <task
         name="javac"
@@ -20,14 +20,11 @@
         name="verifier"
         duration="0" />
 
-    <artifact
-        location="C:\Users\Roy\Documents\GitHub\Project-Knackebrod\TestApp\app\build\outputs\apk\app-debug.apk"
-        type="MAIN" />
-
-    <build timestamp="261853690711239" >
+    <build timestamp="82119440516878" >
         <artifact
-            location="C:\Users\Roy\Documents\GitHub\Project-Knackebrod\TestApp\app\build\outputs\apk\app-debug.apk"
+            location="C:\Users\onno\Documents\GitHub\RaamKozijn\TestApp\app\build\outputs\apk\app-debug.apk"
             type="MAIN" />
     </build>
+    <build timestamp="82194033896398" />
 
 </instant-run>
