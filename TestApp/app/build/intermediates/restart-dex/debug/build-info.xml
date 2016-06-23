@@ -4,27 +4,27 @@
     api-level="19"
     density="xxhdpi"
     format="7"
-    timestamp="119077048427747"
+    timestamp="120923156668088"
     token="-890827976175847210" >
 
     <task
         name="javac"
-        duration="702" />
+        duration="0" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="614" />
+        duration="0" />
     <task
         name="verifier"
-        duration="233" />
+        duration="0" />
 
     <artifact
         location="C:\Users\Max\Documents\GitHub\RaamKozijn\TestApp\app\build\outputs\apk\app-debug.apk"
         type="MAIN" />
 
-    <build timestamp="119077048427747" >
+    <build timestamp="120923156668088" >
         <artifact
             location="C:\Users\Max\Documents\GitHub\RaamKozijn\TestApp\app\build\outputs\apk\app-debug.apk"
             type="MAIN" />

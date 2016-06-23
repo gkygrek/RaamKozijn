@@ -74,6 +74,7 @@ public class Main2Activity extends AppCompatActivity {
             }
         });
 
+
         buttonLineChart.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
